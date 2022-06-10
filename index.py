@@ -1,0 +1,1 @@
+print "welcome to LUCASSA online shopping system"
